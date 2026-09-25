@@ -3,7 +3,7 @@
   "name": "io.github.pipeworx-io/spaceflight-news",
   "title": "Spaceflight News",
   "description": "Spaceflight News MCP.",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "websiteUrl": "https://pipeworx.io/packs/spaceflight-news",
   "repository": {
     "url": "https://github.com/pipeworx-io/mcp-spaceflight-news",
