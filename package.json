@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-spaceflight-news",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Spaceflight News MCP.",
   "type": "module",
   "main": "lib/index.js",
@@ -27,7 +27,7 @@
     "mode": "gateway",
     "slug": "spaceflight-news",
     "gatewaySlug": "spaceflight-news",
-    "sourceHash": "v1-45016749936053b1ec41288759d15bd1341680a31978f6539c03559c84d32325",
-    "sourceCommit": "f47d581679e1e887373df51ba623f891fbe4c464"
+    "sourceHash": "v1-4d4b7ab1a5406bac4956507e60199aca40c25228fa5fb6d961e1e7be76253d9b",
+    "sourceCommit": "8fc802aa5e23be625ce08d97178f5676c7bc93f3"
   }
 }
